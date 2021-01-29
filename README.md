@@ -10,3 +10,5 @@ http://localhost:8003/greetings/joy
 
 会输出
 Hello, joy!
+
+git remote add origin git@github.com:joycgj/dropwizarddemo2.git
